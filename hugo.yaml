@@ -852,8 +852,12 @@ params:
         image: /placeholders/achievement.jpg
 
       - title: "Alternance GE Vernova Offshore Wind"
-        content: "2 ans d'expérience en support utilisateurs et gestion d'infrastructure dans un environnement multinational."
-        image: /placeholders/achievement.jpg
+        content: "2 ans d'expérience en support utilisateurs et gestion d'infrastructure Cloud multinational."
+        image: /logos/ge-vernova-logo.png
+
+      - title: "Alternance Mairie de Valognes"
+        content: "1ere année d'expérience en support utilisateurs et gestion d'infrastructure On Premise dans un environnement public."
+        image: /logos/mairie-valognes-logo.png
 
       - title: "Certifications Réseau"
         content: Connaissance approfondie des protocoles réseau, configuration de switchs et routeurs, gestion Active Directory.
