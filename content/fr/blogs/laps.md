@@ -6,6 +6,7 @@ image: "images/projects/GEVERNOVA_vue_aerienne.jpg"
 tags: ["Infrastructure", "Réseau OT", "Industrie 4.0", "Support IT"]
 categories: ["Projets Professionnels"]
 ---
+# Migration et optimisation de l'infrastructure LAPS
 
 ## Présentation de l’entreprise
 
