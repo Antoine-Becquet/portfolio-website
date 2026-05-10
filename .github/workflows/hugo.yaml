@@ -17,13 +17,18 @@ jobs:
         uses: actions/checkout@v4
         with:
           submodules: recursive
+          fetch-depth: 0    # Recommandé pour Hugo (dates de fichiers)
+
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
           hugo-version: 'latest'
           extended: true
+
       - name: Build
-        run: hugo --minify
+        # C'est ici qu'on précise le fichier de config
+        run: hugo --config hugo.yaml --minify
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
