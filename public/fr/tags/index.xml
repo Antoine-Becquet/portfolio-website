@@ -6,55 +6,34 @@
     <description>Recent content in Tags on Antoine BECQUET | Portfolio</description>
     <generator>Hugo</generator>
     <language>fr</language>
-    <lastBuildDate>Fri, 09 Dec 2022 19:53:33 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 28 Apr 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/fr/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Exemple</title>
-      <link>http://localhost:1313/fr/tags/exemple/</link>
-      <pubDate>Fri, 09 Dec 2022 19:53:33 +0530</pubDate>
-      <guid>http://localhost:1313/fr/tags/exemple/</guid>
+      <title>Industrie 4.0</title>
+      <link>http://localhost:1313/fr/tags/industrie-4.0/</link>
+      <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/tags/industrie-4.0/</guid>
       <description></description>
     </item>
     <item>
-      <title>Mathjax</title>
-      <link>http://localhost:1313/fr/tags/mathjax/</link>
-      <pubDate>Fri, 09 Dec 2022 19:53:33 +0530</pubDate>
-      <guid>http://localhost:1313/fr/tags/mathjax/</guid>
+      <title>Infrastructure</title>
+      <link>http://localhost:1313/fr/tags/infrastructure/</link>
+      <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/tags/infrastructure/</guid>
       <description></description>
     </item>
     <item>
-      <title>Syntaxe Markdown</title>
-      <link>http://localhost:1313/fr/tags/syntaxe-markdown/</link>
-      <pubDate>Fri, 09 Dec 2022 19:53:33 +0530</pubDate>
-      <guid>http://localhost:1313/fr/tags/syntaxe-markdown/</guid>
+      <title>Réseau OT</title>
+      <link>http://localhost:1313/fr/tags/r%C3%A9seau-ot/</link>
+      <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/tags/r%C3%A9seau-ot/</guid>
       <description></description>
     </item>
     <item>
-      <title>Échantillon</title>
-      <link>http://localhost:1313/fr/tags/%C3%A9chantillon/</link>
-      <pubDate>Sat, 03 Apr 2021 23:29:21 +0530</pubDate>
-      <guid>http://localhost:1313/fr/tags/%C3%A9chantillon/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Support Des Emoji</title>
-      <link>http://localhost:1313/fr/tags/support-des-emoji/</link>
-      <pubDate>Sat, 03 Apr 2021 22:53:58 +0530</pubDate>
-      <guid>http://localhost:1313/fr/tags/support-des-emoji/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Texte De Remplissage</title>
-      <link>http://localhost:1313/fr/tags/texte-de-remplissage/</link>
-      <pubDate>Sat, 03 Apr 2021 22:41:10 +0530</pubDate>
-      <guid>http://localhost:1313/fr/tags/texte-de-remplissage/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Contenu Enrichi</title>
-      <link>http://localhost:1313/fr/tags/contenu-enrichi/</link>
-      <pubDate>Sat, 03 Apr 2021 19:53:33 +0530</pubDate>
-      <guid>http://localhost:1313/fr/tags/contenu-enrichi/</guid>
+      <title>Support IT</title>
+      <link>http://localhost:1313/fr/tags/support-it/</link>
+      <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/tags/support-it/</guid>
       <description></description>
     </item>
   </channel>

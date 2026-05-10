@@ -2,7 +2,7 @@
 title: "Migration et optimisation de l'infrastructure LAPS"
 date: 2025-04-28
 description: "Modernisation du système de projection laser pour la fabrication de pales d'éoliennes offshore chez GE Vernova."
-image: "images/projects/GEVERNOVA_vue_aerienne.jpg"
+image: "/images/projects/lap_prosoft6.png"
 tags: ["Infrastructure", "Réseau OT", "Industrie 4.0", "Support IT"]
 categories: ["Projets Professionnels"]
 ---
@@ -35,7 +35,7 @@ Le projet a dû faire face à des contraintes critiques :
 * **Logistique complexe** : Matériel réseau non commandé à temps via l'ERP.
 * **Communication internationale** : Coordination avec les équipes réseau sur différents fuseaux horaires (nécessitant une vigilance accrue sur des détails comme le PoE qui aurait pu réinitialiser la passerelle).
 
-![Infrastructure actuelle d'une baie](/images/laps1.png)
+![Infrastructure actuelle d'une baie](/images/projects/laps1.png)
 
 ## Objectifs et Développement
 
