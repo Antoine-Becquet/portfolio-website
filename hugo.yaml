@@ -849,22 +849,19 @@ params:
     items:
       - title: "BTS Services Informatiques aux Organisations"
         content: Formation en alternance spécialisée en infrastructure réseau et support utilisateur.
-        image: /images/achievement.jpg
+        image: /placeholders/achievement.jpg
 
       - title: "Alternance GE Vernova Offshore Wind"
         content: "2 ans d'expérience en support utilisateurs et gestion d'infrastructure dans un environnement multinational."
-        image: /images/achievement.jpg
+        image: /placeholders/achievement.jpg
 
       - title: "Certifications Réseau"
         content: Connaissance approfondie des protocoles réseau, configuration de switchs et routeurs, gestion Active Directory.
-        image: /images/achievement.jpg
+        image: /placeholders/achievement.jpg
 
       - title: "Passion pour la domotique"
         content: Projet personnel sur Home Assistant - Automatisation et intégration de systèmes domotiques avancés.
         url: "https://antoinebecquet93.wordpress.com/2024/11/22/mon-installation-home-assistant/"
-      - title: Google Summer of Code
-        content: Contributed to a open source project.
-        url: https://example.com
 
   # projects
   projects:
