@@ -53,7 +53,7 @@ languages:
                 content: "Infrastructure management for clients Orano, AXA, BRED. On-site interventions for technical support and system maintenance. Permanent position."
 
           - company: "Experis France"
-            companyUrl: "https://www.experis.fr/"
+            companyUrl: "https://www.experisfrance.fr/"
             jobs:
               - name: "Level 1 Helpdesk Naval Group"
                 date: "Sept 2025 - Nov 2025"
@@ -67,7 +67,7 @@ languages:
                 content: "Apprenticeship contract. User support, network infrastructure management, workstation configuration. Implementation of IT solutions for various company departments."
 
           - company: "Ville de Valognes"
-            companyUrl: "#"
+            companyUrl: "https://valognes.fr/"
             jobs:
               - name: "Network and IT Administration"
                 date: "Sept 2022 - Sept 2023"
@@ -81,14 +81,14 @@ languages:
                 content: "Internship. Technical support, user assistance, workstation configuration."
 
           - company: "Daltoner"
-            companyUrl: "#"
+            companyUrl: "https://daltoner.fr/"
             jobs:
               - name: "Public IT Support"
                 date: "June 2021"
                 content: "Internship. Technical support to customers, IT hardware diagnostics and repair."
 
           - company: "LC Informatique"
-            companyUrl: "#"
+            companyUrl: "https://lcinformatique.com/"
             jobs:
               - name: "IT Maintenance"
                 date: "January 2021"
@@ -105,7 +105,7 @@ languages:
         items:
           - title: "BTS Information Technology Services (SIO)"
             school:
-              name: "Apprenticeship School"
+              name: "Pole BTS Alternance Caen"
               url: "#"
             date: "09/2023 - 06/2025"
             GPA: "In progress"
@@ -239,7 +239,7 @@ languages:
                 content: "Gestión de infraestructura para clientes Orano, AXA, BRED. Intervenciones en sitio para soporte técnico y mantenimiento del sistema. Contrato permanente."
 
           - company: "Experis France"
-            companyUrl: "https://www.experis.fr/"
+            companyUrl: "https://www.experisfrance.fr/"
             jobs:
               - name: "Helpdesk Nivel 1 Naval Group"
                 date: "Sept 2025 - Nov 2025"
@@ -253,7 +253,7 @@ languages:
                 content: "Contrato de aprendizaje. Soporte a usuarios, gestión de infraestructura de red, configuración de estaciones de trabajo. Implementación de soluciones IT para varios departamentos de la empresa."
 
           - company: "Ville de Valognes"
-            companyUrl: "#"
+            companyUrl: "https://valognes.fr/"
             jobs:
               - name: "Administración de Red e Informática"
                 date: "Sept 2022 - Sept 2023"
@@ -267,14 +267,14 @@ languages:
                 content: "Prácticas. Soporte técnico, asistencia a usuarios, configuración de estaciones de trabajo."
 
           - company: "Daltoner"
-            companyUrl: "#"
+            companyUrl: "https://daltoner.fr/"
             jobs:
               - name: "Soporte Informático al Público"
                 date: "Junio 2021"
                 content: "Prácticas. Soporte técnico al cliente, diagnóstico y reparación de hardware informático."
 
           - company: "LC Informatique"
-            companyUrl: "#"
+            companyUrl: "https://lcinformatique.com/"
             jobs:
               - name: "Mantenimiento Informático"
                 date: "Enero 2021"
@@ -291,7 +291,7 @@ languages:
         items:
           - title: "BTS Servicios Informáticos para Organizaciones (SIO)"
             school:
-              name: "Escuela de Aprendizaje"
+              name: "Pole BTS Alternance Caen"
               url: "#"
             date: "09/2023 - 06/2025"
             GPA: "En progreso"
@@ -424,7 +424,7 @@ languages:
             content: "Gestion d'infrastructure pour clients Orano, AXA, BRED. Intervention sur site pour support technique et maintenance système. CDI."
 
       - company: "Experis France"
-        companyUrl: "https://experis.fr/"
+        companyUrl: "https://experisfrance.fr/"
         jobs:
           - name: "Helpdesk N1 Naval Group"
             date: "Sept 2025 - Nov 2025"
@@ -452,14 +452,14 @@ languages:
             content: "Stage. Support technique, assistance aux utilisateurs, configuration de postes de travail."
 
       - company: "Daltoner"
-        companyUrl: "#"
+        companyUrl: "https://daltoner.fr/"
         jobs:
           - name: "Assistance informatique au public"
             date: "Juin 2021"
             content: "Stage. Support technique à la clientèle, diagnostique et réparation de matériel informatique."
 
       - company: "LC Informatique"
-        companyUrl: "#"
+        companyUrl: "https://lcinformatique.com/"
         jobs:
           - name: "Maintenance informatique"
             date: "Janvier 2021"
@@ -476,7 +476,7 @@ languages:
         items:
           - title: "BTS Services Informatiques aux Organisations (SIO)"
             school:
-              name: "École en alternance"
+              name: "Pole BTS Alternance Caen"
               url: "#"
             date: "09/2023 - 06/2025"
             GPA: "En cours"
@@ -749,7 +749,7 @@ params:
             content: "Gestion d'infrastructure pour clients Orano, AXA, BRED. Intervention sur site pour support technique et maintenance système. CDI."
 
       - company: "Experis France"
-        companyUrl: "https://experis.fr/"
+        companyUrl: "https://experisfrance.fr/"
         jobs:
           - name: "Helpdesk N1 Naval Group"
             date: "Sept 2025 - Nov 2025"
@@ -777,14 +777,14 @@ params:
             content: "Stage. Support technique, assistance aux utilisateurs, configuration de postes de travail."
 
       - company: "Daltoner"
-        companyUrl: "#"
+        companyUrl: "https://daltoner.fr/"
         jobs:
           - name: "Assistance informatique au public"
             date: "Juin 2021"
             content: "Stage. Support technique à la clientèle, diagnostique et réparation de matériel informatique."
 
       - company: "LC Informatique"
-        companyUrl: "#"
+        companyUrl: "https://lcinformatique.com/"
         jobs:
           - name: "Maintenance informatique"
             date: "Janvier 2021"
@@ -805,7 +805,7 @@ params:
     items:
       - title: "BTS Services Informatiques aux Organisations (SIO)"
         school:
-          name: "École en alternance"
+          name: "Pole BTS Alternance Caen"
           url: "#"
         date: "09/2023 - 06/2025"
         GPA: "En cours"
