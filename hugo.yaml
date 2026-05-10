@@ -106,7 +106,7 @@ languages:
           - title: "BTS Information Technology Services (SIO)"
             school:
               name: "Pole BTS Alternance Caen"
-              url: "#"
+              url: "https://polebtsalternance.fr/"
             date: "09/2023 - 06/2025"
             GPA: "In progress"
             content: |-
@@ -121,7 +121,7 @@ languages:
           - title: "Professional Baccalaureate - Digital Systems"
             school:
               name: "Lycée Charles Tellier"
-              url: "#"
+              url: "https://www.lyceetellier.fr/"
             date: "09/2022 - 06/2023"
             GPA: "Highest honors"
             content: |-
@@ -131,7 +131,7 @@ languages:
           - title: "Lower Secondary Certificate"
             school:
               name: "Collège D. Diderot"
-              url: "#"
+              url: "https://diderot-cherbourg-en-cotentin.college.ac-normandie.fr/"
             date: "09/2019 - 07/2020"
             GPA: "Honors"
             content: |-
@@ -292,7 +292,7 @@ languages:
           - title: "BTS Servicios Informáticos para Organizaciones (SIO)"
             school:
               name: "Pole BTS Alternance Caen"
-              url: "#"
+              url: "https://polebtsalternance.fr/"
             date: "09/2023 - 06/2025"
             GPA: "En progreso"
             content: |-
@@ -307,7 +307,7 @@ languages:
           - title: "Bachillerato Profesional - Sistemas Digitales"
             school:
               name: "Lycée Charles Tellier"
-              url: "#"
+              url: "https://www.lyceetellier.fr/"
             date: "09/2022 - 06/2023"
             GPA: "Matrícula de honor"
             content: |-
@@ -317,7 +317,7 @@ languages:
           - title: "Certificado de Educación Secundaria Obligatoria"
             school:
               name: "Collège D. Diderot"
-              url: "#"
+              url: "https://diderot-cherbourg-en-cotentin.college.ac-normandie.fr/"
             date: "09/2019 - 07/2020"
             GPA: "Notable"
             content: |-
@@ -477,7 +477,7 @@ languages:
           - title: "BTS Services Informatiques aux Organisations (SIO)"
             school:
               name: "Pole BTS Alternance Caen"
-              url: "#"
+              url: "https://polebtsalternance.fr/"
             date: "09/2023 - 06/2025"
             GPA: "En cours"
             content: |-
@@ -492,7 +492,7 @@ languages:
           - title: "Baccalauréat Professionnel - Systèmes Numériques"
             school:
               name: "Lycée Charles Tellier"
-              url: "#"
+              url: "https://www.lyceetellier.fr/"
             date: "09/2022 - 06/2023"
             GPA: "Mention TRÈS BIEN"
             content: |-
@@ -502,7 +502,7 @@ languages:
           - title: "Brevet des Collèges"
             school:
               name: "Collège D. Diderot"
-              url: "#"
+              url: "https://diderot-cherbourg-en-cotentin.college.ac-normandie.fr/"
             date: "09/2019 - 07/2020"
             GPA: "Mention BIEN"
             content: |-
@@ -778,6 +778,7 @@ params:
 
       - company: "Daltoner"
         companyUrl: "https://daltoner.fr/"
+        icon: "fas fa-industry"
         jobs:
           - name: "Assistance informatique au public"
             date: "Juin 2021"
@@ -806,12 +807,12 @@ params:
       - title: "BTS Services Informatiques aux Organisations (SIO)"
         school:
           name: "Pole BTS Alternance Caen"
-          url: "#"
+          url: "https://polebtsalternance.fr/"
         date: "09/2023 - 06/2025"
-        GPA: "En cours"
+        GPA: "Acquis"
         content: |-
           Option: Solution d'Infrastructure Système et Réseaux (SISR)
-          
+          Caen
           Spécialisation dans les domaines:
             - Infrastructure réseau
             - Administration système
@@ -821,21 +822,25 @@ params:
       - title: "Baccalauréat Professionnel - Systèmes Numériques"
         school:
           name: "Lycée Charles Tellier"
-          url: "https://example.org"
+          url: "https://www.lyceetellier.fr/"
         date: "09/2022 - 06/2023"
         GPA: "Mention TRÈS BIEN"
         content: |-
           Option C: Réseaux informatiques et systèmes communicants
           Condé-Sur-Noireau
+          Spécialisation dans les domaines:
+            - Réseaux informatiques
+            - Systèmes communicants
+            - Maintenance informatique
 
       - title: "Brevet des Collèges"
         school:
           name: "Collège D. Diderot"
-          url: "https://example.org"
+          url: "https://diderot-cherbourg-en-cotentin.college.ac-normandie.fr/"
         date: "09/2019 - 07/2020"
         GPA: "Mention BIEN"
         content: |-
-          Tourlaville
+          College général - Tourlaville
 
   # Achievements
   achievements:
