@@ -141,7 +141,7 @@ languages:
         items:
           - title: "My Home Assistant Installation"
             content: "Personal home automation project. Renewal of home automation infrastructure for full control of connected devices. Integration of multiple protocols (Google Home, vacuum robot, Freebox, HomeLab server, etc.). Implementation of advanced automations based on schedules and weather conditions."
-            image: /images/projects/homeassistant.png
+            image: /images/projects/homeassistant.webp
             featured:
               name: Article
               link: https://antoinebecquet93.wordpress.com/2024/11/22/mon-installation-home-assistant/
