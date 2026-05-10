@@ -897,7 +897,7 @@ params:
 
       - title: "Administration système et réseau"
         content: "Expérience acquise lors de contrats en alternance et stages. Gestion d'Active Directory, administration de serveurs, configuration de postes de travail, support aux utilisateurs, maintenance préventive et corrective."
-        image: /images/projects/sysadmin.png
+        image: /images/placeholders/profile2.jpg
         badges:
           - "Active Directory"
           - "Windows Server"
