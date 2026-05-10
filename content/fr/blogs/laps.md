@@ -2,7 +2,7 @@
 title: "Migration et optimisation de l'infrastructure LAPS"
 date: 2025-04-28
 description: "Modernisation du système de projection laser pour la fabrication de pales d'éoliennes offshore chez GE Vernova."
-image: "images/projects/GE VERNOVA vue aerienne.jpg"
+image: "images/projects/GEVERNOVA_vue_aerienne.jpg"
 tags: ["Infrastructure", "Réseau OT", "Industrie 4.0", "Support IT"]
 categories: ["Projets Professionnels"]
 ---
