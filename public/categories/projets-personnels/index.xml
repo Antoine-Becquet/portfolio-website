@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Projets Personnels on Antoine BECQUET | Portfolio</title>
+		<link>http://localhost:1313/categories/projets-personnels/</link>
+		<description>Recent content in Projets Personnels on Antoine BECQUET | Portfolio</description>
+		<generator>Hugo</generator>
+		<language>fr-fr</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 14 Nov 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/categories/projets-personnels/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Retrofit OEM : Virtual Cockpit et MIB2 High sur Audi A3 8V</title>
+				<link>http://localhost:1313/blogs/retrofit-audi-a3-8v/</link>
+				<pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/blogs/retrofit-audi-a3-8v/</guid>
+				<description>&lt;h2 id=&#34;objectif-du-projet&#34;&gt;Objectif du projet&lt;/h2&gt;&#xA;&lt;p&gt;L&amp;rsquo;objectif était de moderniser l&amp;rsquo;électronique embarquée de mon &lt;strong&gt;Audi A3 8V (2014)&lt;/strong&gt; — initialement dotée d&amp;rsquo;un combiné d&amp;rsquo;instruments analogique et d&amp;rsquo;un système multimédia d&amp;rsquo;entrée de gamme (MIB1 Standard) — en intégrant des équipements constructeur d&amp;rsquo;origine (OEM) de génération supérieure :&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Un combiné numérique &lt;strong&gt;Virtual Cockpit (FPK1)&lt;/strong&gt; (référence : 8V0920790C).&lt;/li&gt;&#xA;&lt;li&gt;Une unité d&amp;rsquo;infodivertissement &lt;strong&gt;MIB2 High (MHI2 Harman)&lt;/strong&gt; (réference : 81A035036 car elle provient d&amp;rsquo;un Q2, adaptée comme une 8V0035036 d&amp;rsquo;origine A3 8V2).&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/projects/04/original.jpg&#34; alt=&#34;Configuration d’origine avant modification&#34;&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Mon installation Home Assistant</title>
+				<link>http://localhost:1313/blogs/home-assistant/</link>
+				<pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/blogs/home-assistant/</guid>
+				<description>&lt;h2 id=&#34;préambule&#34;&gt;Préambule&lt;/h2&gt;&#xA;&lt;p&gt;J&amp;rsquo;ai récemment décidé de renouveler mon système domotique chez moi en voulant un contrôle absolu sur mes appareils. L&amp;rsquo;objectif est d&amp;rsquo;exploiter le plein potentiel de chacun et de faciliter l&amp;rsquo;interconnexion entre tous, car j&amp;rsquo;utilise de nombreux équipements basés sur différents protocoles qui ne communiquent pas nativement entre eux.&lt;/p&gt;&#xA;&lt;p&gt;Auparavant, j&amp;rsquo;utilisais uniquement l&amp;rsquo;écosystème Google Home avec un &lt;strong&gt;Google Nest Hub (2e gén.)&lt;/strong&gt;, permettant l&amp;rsquo;affichage d&amp;rsquo;informations ainsi que le contrôle des éclairages de différentes marques et du téléviseur sous Android TV.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

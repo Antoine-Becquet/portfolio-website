@@ -1,40 +1,129 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Tags on Antoine BECQUET | Portfolio</title>
-    <link>http://localhost:1313/fr/tags/</link>
-    <description>Recent content in Tags on Antoine BECQUET | Portfolio</description>
-    <generator>Hugo</generator>
-    <language>fr</language>
-    <lastBuildDate>Mon, 28 Apr 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/fr/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Industrie 4.0</title>
-      <link>http://localhost:1313/fr/tags/industrie-4.0/</link>
-      <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fr/tags/industrie-4.0/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Infrastructure</title>
-      <link>http://localhost:1313/fr/tags/infrastructure/</link>
-      <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fr/tags/infrastructure/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Réseau OT</title>
-      <link>http://localhost:1313/fr/tags/r%C3%A9seau-ot/</link>
-      <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fr/tags/r%C3%A9seau-ot/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Support IT</title>
-      <link>http://localhost:1313/fr/tags/support-it/</link>
-      <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fr/tags/support-it/</guid>
-      <description></description>
-    </item>
-  </channel>
+	<channel>
+		<title>Tags on Antoine BECQUET | Portfolio</title>
+		<link>http://localhost:1313/fr/tags/</link>
+		<description>Recent content in Tags on Antoine BECQUET | Portfolio</description>
+		<generator>Hugo</generator>
+		<language>fr</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 14 Nov 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/fr/tags/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Audi</title>
+				<link>http://localhost:1313/fr/tags/audi/</link>
+				<pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/fr/tags/audi/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Automobile</title>
+				<link>http://localhost:1313/fr/tags/automobile/</link>
+				<pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/fr/tags/automobile/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Retrofit</title>
+				<link>http://localhost:1313/fr/tags/retrofit/</link>
+				<pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/fr/tags/retrofit/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Industrie 4.0</title>
+				<link>http://localhost:1313/fr/tags/industrie-4.0/</link>
+				<pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/fr/tags/industrie-4.0/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Infrastructure</title>
+				<link>http://localhost:1313/fr/tags/infrastructure/</link>
+				<pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/fr/tags/infrastructure/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Réseau OT</title>
+				<link>http://localhost:1313/fr/tags/r%C3%A9seau-ot/</link>
+				<pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/fr/tags/r%C3%A9seau-ot/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Support IT</title>
+				<link>http://localhost:1313/fr/tags/support-it/</link>
+				<pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/fr/tags/support-it/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Fibre Optique</title>
+				<link>http://localhost:1313/fr/tags/fibre-optique/</link>
+				<pubDate>Thu, 13 Feb 2025 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/fr/tags/fibre-optique/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>GE Vernova</title>
+				<link>http://localhost:1313/fr/tags/ge-vernova/</link>
+				<pubDate>Thu, 13 Feb 2025 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/fr/tags/ge-vernova/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>PoE</title>
+				<link>http://localhost:1313/fr/tags/poe/</link>
+				<pubDate>Thu, 13 Feb 2025 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/fr/tags/poe/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Réseau</title>
+				<link>http://localhost:1313/fr/tags/r%C3%A9seau/</link>
+				<pubDate>Thu, 13 Feb 2025 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/fr/tags/r%C3%A9seau/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>WiFi</title>
+				<link>http://localhost:1313/fr/tags/wifi/</link>
+				<pubDate>Thu, 13 Feb 2025 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/fr/tags/wifi/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Automatisation</title>
+				<link>http://localhost:1313/fr/tags/automatisation/</link>
+				<pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/fr/tags/automatisation/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Domotique</title>
+				<link>http://localhost:1313/fr/tags/domotique/</link>
+				<pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/fr/tags/domotique/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Home Assistant</title>
+				<link>http://localhost:1313/fr/tags/home-assistant/</link>
+				<pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/fr/tags/home-assistant/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>HomeLab</title>
+				<link>http://localhost:1313/fr/tags/homelab/</link>
+				<pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/fr/tags/homelab/</guid>
+				<description></description>
+			</item>
+	</channel>
 </rss>

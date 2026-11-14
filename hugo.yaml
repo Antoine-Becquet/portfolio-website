@@ -1,5 +1,5 @@
 baseURL: "https://about.antoinebecquet.fr/"
-languageCode: "fr-fr"
+locale: "fr-fr"
 title: "Antoine BECQUET | Portfolio"
 theme: hugo-profile
 
@@ -10,20 +10,15 @@ defaultContentLanguageInSubdir: false
 languages:
   fr:
     contentDir: "content/fr"
-    languageName: "Français"
+    label: "Français"
     weight: 1
     menu:
       main:
         - identifier: blog
           name: Blog
           title: Articles de blog
-          url: /fr/blogs
+          url: /blogs
           weight: 1
-        - identifier: gallery
-          name: Galerie
-          title: Galerie d'images
-          url: /fr/gallery
-          weight: 2
     params:
       hero:
         intro: "Bonjour, je m'appelle"
@@ -32,6 +27,7 @@ languages:
         content: "Passionné par l'infrastructure réseau et la maintenance logicielle. Spécialiste de l'installation de matériel informatique et du support technique de proximité."
         button:
           name: "CV"
+          url: "/Antoine_BECQUET_CV_2026.pdf"
       about:
         title: "À propos de moi"
         content: >
@@ -48,76 +44,72 @@ languages:
           </div>
 
           Actuellement technicien informatique Itinérant chez Securinfor, je me déplace chez les clients pour assurer la maintenance de leur infrastructure informatique.
-        skills:
-          title: "Voici quelques technologies avec lesquelles j'ai travaillé récemment:"
-  experience:
-    enable: true
-    # title: "Custom Name"
-    items:
-      - company: "Securinfor"
-        companyUrl: "https://securinfor.fr/"
-        jobs:
-          - name: "Technicien Itinérant"
-            date: "Déc 2025 - Présent"
-            content: "Gestion d'infrastructure pour clients Orano, AXA, BRED. Intervention sur site pour support technique et maintenance système. CDI."
+          Voici quelques technologies avec lesquelles j'ai travaillé récemment:
+      experience:
+        items:
+        - company: "Securinfor"
+          companyUrl: "https://securinfor.fr/"
+          jobs:
+            - name: "Technicien Itinérant"
+              date: "Déc 2025 - Présent"
+              content: "Gestion d'infrastructure pour clients Orano, AXA, BRED. Intervention sur site pour support technique et maintenance système. CDI."
 
-      - company: "Experis France"
-        companyUrl: "https://experisfrance.fr/"
-        jobs:
-          - name: "Helpdesk N1 Naval Group"
-            date: "Sept 2025 - Nov 2025"
-            content: "Service hotline niveau 1 pour le groupe Naval Group. Support technique aux utilisateurs et escalade des incidents."
+        - company: "Experis France"
+          companyUrl: "https://experisfrance.fr/"
+          jobs:
+            - name: "Helpdesk N1 Naval Group"
+              date: "Sept 2025 - Nov 2025"
+              content: "Service hotline niveau 1 pour le groupe Naval Group. Support technique aux utilisateurs et escalade des incidents."
 
-      - company: "GE Vernova Offshore Wind"
-        companyUrl: "https://gevernova.com/"
-        jobs:
-          - name: "Support aux utilisateurs et Gestion d'infrastructure"
-            date: "Sept 2023 - Sept 2025"
-            content: "Contrat en alternance. Support utilisateurs, gestion de l'infrastructure réseau, configuration de postes de travail. Mise en place de solutions IT pour les différents départements de l'entreprise."
+        - company: "GE Vernova Offshore Wind"
+          companyUrl: "https://gevernova.com/"
+          jobs:
+            - name: "Support aux utilisateurs et Gestion d'infrastructure"
+              date: "Sept 2023 - Sept 2025"
+              content: "Contrat en alternance. Support utilisateurs, gestion de l'infrastructure réseau, configuration de postes de travail. Mise en place de solutions IT pour les différents départements de l'entreprise."
 
-      - company: "Ville de Valognes"
-        companyUrl: "https://valognes.fr/"
-        jobs:
-          - name: "Administration réseau et informatique"
-            date: "Sept 2022 - Sept 2023"
-            content: "Contrat en alternance. Gestion des utilisateurs, administration des serveurs, maintenance du réseau local, support technique aux agents municipaux."
+        - company: "Ville de Valognes"
+          companyUrl: "https://valognes.fr/"
+          jobs:
+            - name: "Administration réseau et informatique"
+              date: "Sept 2022 - Sept 2023"
+              content: "Contrat en alternance. Gestion des utilisateurs, administration des serveurs, maintenance du réseau local, support technique aux agents municipaux."
 
-      - company: "LM Wind Power"
-        companyUrl: "https://lmwindpower.com/"
-        jobs:
-          - name: "Helpdesk IT"
-            date: "Juin 2022 - Juillet 2022"
-            content: "Stage. Support technique, assistance aux utilisateurs, configuration de postes de travail."
+        - company: "LM Wind Power"
+          companyUrl: "https://lmwindpower.com/"
+          jobs:
+            - name: "Helpdesk IT"
+              date: "Juin 2022 - Juillet 2022"
+              content: "Stage. Support technique, assistance aux utilisateurs, configuration de postes de travail."
 
-      - company: "Daltoner"
-        companyUrl: "https://daltoner.fr/"
-        jobs:
-          - name: "Assistance informatique au public"
-            date: "Juin 2021"
-            content: "Stage. Support technique à la clientèle, diagnostique et réparation de matériel informatique."
+        - company: "Daltoner"
+          companyUrl: "https://daltoner.fr/"
+          jobs:
+            - name: "Assistance informatique au public"
+              date: "Juin 2021"
+              content: "Stage. Support technique à la clientèle, diagnostique et réparation de matériel informatique."
 
-      - company: "LC Informatique"
-        companyUrl: "https://lcinformatique.com/"
-        jobs:
-          - name: "Maintenance informatique"
-            date: "Janvier 2021"
-            content: "Stage. Maintenance préventive et corrective, dépannage de matériel, installation de logiciels."
+        - company: "LC Informatique"
+          companyUrl: "https://lcinformatique.com/"
+          jobs:
+           - name: "Maintenance informatique"
+             date: "Janvier 2021"
+             content: "Stage. Maintenance préventive et corrective, dépannage de matériel, installation de logiciels."
 
-      - company: "Cash Express"
-        companyUrl: "https://cashexpress.fr/"
-        jobs:
-          - name: "Vente et rayonnage de matériel informatique"
-            date: "Janvier 2020"
-            content: "Stage. Vente de composants informatiques, conseil clients, gestion des stocks."
-
-    education:
+        - company: "Cash Express"
+          companyUrl: "https://cashexpress.fr/"
+          jobs:
+            - name: "Vente et rayonnage de matériel informatique"
+              date: "Janvier 2020"
+              content: "Stage. Vente de composants informatiques, conseil clients, gestion des stocks."
+      education:
         items:
           - title: "BTS Services Informatiques aux Organisations (SIO)"
             school:
               name: "Pole BTS Alternance Caen"
               url: "https://polebtsalternance.fr/"
             date: "09/2023 - 06/2025"
-            GPA: "En cours"
+            GPA: "Acquis !"
             content: |-
               Option: Solution d'Infrastructure Système et Réseaux (SISR)
               
@@ -146,25 +138,25 @@ languages:
             content: |-
               Tourlaville
 
-    projects:
+      projects:
         items:
           - title: "Mon installation Home Assistant"
             content: "Projet personnel de domotique. Renouvellement de l'infrastructure domotique pour un contrôle total des appareils connectés. Intégration de multiples protocoles (Google Home, robot aspirateur, Freebox, serveur HomeLab, etc.). Mise en place d'automatisations avancées basées sur les horaires et conditions météorologiques."
-            image: /images/projects/homeassistant.png
+            image: /images/projects/02/homeassistant.png
             featured:
               name: Article
-              link: https://antoinebecquet93.wordpress.com/2024/11/22/mon-installation-home-assistant/
+              link: /blogs/home-assistant/
             badges:
               - "Home Assistant"
               - "Domotique"
               - "Automatisation"
             links:
               - icon: fab fa-wordpress
-                url: https://antoinebecquet93.wordpress.com/2024/11/22/mon-installation-home-assistant/
+                url: /blogs/home-assistant/
 
           - title: "Raccordement réseau de bâtiments"
             content: "Projet professionnel réalisé chez GE Vernova. Raccordement de deux bâtiments à l'infrastructure réseau principale pour l'installation de bornes WiFi. Passage de fibre, configuration de switches, brassage de prises RJ45, respect des normes T568A/B, génération de carte de signal (HeatMap) avec WifiMan pour optimiser la portée."
-            image: /images/projects/network.png
+            image: /images/projects/01/normes-T568.webp
             featured:
               name: Détails
               link: https://antoinebecquet93.wordpress.com/2025/02/13/raccordement-reseau-de-batiments/
@@ -179,35 +171,194 @@ languages:
 
           - title: "Administration système et réseau"
             content: "Expérience acquise lors de contrats en alternance et stages. Gestion d'Active Directory, administration de serveurs, configuration de postes de travail, support aux utilisateurs, maintenance préventive et corrective."
-            image: /images/projects/sysadmin.png
+            image: /images/placeholders/profile2.jpg
+            badges:
+              - "Active Directory"
+              - "Windows Server"
+              - "Linux"
+              - "PowerShell"    
+      contact:
+        enable: true
+        # title: "Custom Name"
+        content: "Je suis toujours ouvert à la communication. Que vous ayez une question ou que vous souhaitiez simplement dire bonjour, n'hésitez pas à me contacter !"
+        btnName: "Ecrivez-moi"
+        btnLink: mailto:antoinebecquet93@gmail.com
+    # formspree:
+    #   enable: true # `contact.email` value will be ignored
+    #   formId: abcdefgh # Take it from your form's endpoint, like 'https://formspree.io/f/abcdefgh'
+    #   emailCaption: "Enter your email address"
+    #   messageCaption: "Enter your message here"
+    #   messageRows: 5
+
+  en:
+    label: "English"
+    contentDir: "content/en"
+    weight: 2
+    menus:
+      main:
+        - identifier: blog
+          name: Blog
+          title: Blog posts
+          url: /en/blogs/
+          weight: 1
+    params:
+      hero:
+        intro: "Hi, my name is"
+        subtitle: "IT Technician"
+        content: "Passionate about network infrastructure and user support. Specialized in network configuration, system administration, and technical support."
+        button:
+          name: "Resume"
+          url: "/Antoine_BECQUET_CV_2026.pdf"
+      about:
+        title: "About Me"
+        content: >
+          <div style="text-align: center; margin-bottom: 40px; background-color: #111; padding: 40px; border-radius: 10px;">
+            <p style="font-style: italic; font-size: 1.5rem; color: #fff; font-family: serif;">
+              "Theory and practice sometimes clash. And when that happens, theory loses. Every single time."
+            </p>
+            <img src="/images/linustorvalds.png" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover; margin-top: 20px; border: 2px solid #333;">
+            <p style="margin-top: 10px; font-weight: bold; color: #fff; margin-bottom: 0;">Linus Torvalds</p>
+            <p style="font-size: 0.8rem; color: #888;">Linux kernel inventor</p>
+          </div>
+          Currently working as a Field IT Technician at Securinfor, traveling to client sites to maintain and support their IT infrastructure. Here's some of the technologies I've recently worked with:
+      experience:
+        items:
+          - company: "Securinfor"
+            companyUrl: "https://securinfor.fr/"
+            jobs:
+              - name: "Field IT Technician"
+                date: "Déc 2025 - Active"
+                content: "Infrastructure management for clients Orano, AXA, BRED. On-site intervention for technical support and system maintenance. Permanent contract."
+
+          - company: "Experis France"
+            companyUrl: "https://experisfrance.fr/"
+            jobs:
+            - name: "N1 Helpdesk Naval Group"
+              date: "Sept 2025 - Nov 2025"
+              content: "Level 1 hotline service for the Naval Group. Technical support for users and incident escalation."
+
+          - company: "GE Vernova Offshore Wind"
+            companyUrl: "https://gevernova.com/"
+            jobs:
+            - name: "User Support and Infrastructure Management"
+              date: "Sept 2023 - Sept 2025"
+              content: "Internship. User support, network infrastructure management, workstation configuration. Implementation of IT solutions for various departments of the company."
+
+          - company: "Ville de Valognes"
+            companyUrl: "https://valognes.fr/"
+            jobs:
+            - name: "System and Network Administration, User Support"
+              date: "Sept 2022 - Sept 2023"
+              content: "Internship. User management, server administration, local network maintenance, technical support for municipal staff."
+
+          - company: "LM Wind Power"
+            companyUrl: "https://lmwindpower.com/"
+            jobs:
+            - name: "Helpdesk IT"
+              date: "Juin 2022 - Juillet 2022"
+              content: "Stage. Technical support, user assistance, workstation configuration."
+
+          - company: "Daltoner"
+            companyUrl: "https://daltoner.fr/"
+            jobs:
+            - name: "Public IT Support"
+              date: "Juin 2021"
+              content: "Stage. Technical support for customers, diagnosis and repair of computer equipment."
+
+          - company: "LC Informatique"
+            companyUrl: "https://lcinformatique.com/"
+            jobs:
+            - name: "Maintenance informatique"
+              date: "Janvier 2021"
+              content: "Stage. Preventive and corrective maintenance, equipment troubleshooting, software installation."
+
+          - company: "Cash Express"
+            companyUrl: "https://cashexpress.fr/"
+            jobs:
+            - name: "Vente et rayonnage de matériel informatique"
+              date: "Janvier 2020"
+              content: "Stage. Sale of computer components, customer advice, stock management."
+
+      education:
+        items:
+          - title: "BTS Services Informatiques aux Organisations (SIO)"
+            school:
+              name: "Pole BTS Alternance Caen"
+              url: "https://polebtsalternance.fr/"
+            date: "09/2023 - 06/2025"
+            GPA: "Obtained !"
+            content: |-
+              Option: Solution d'Infrastructure Système et Réseaux (SISR)
+              
+              Specialization in the following areas:
+                - Network infrastructure
+                - System administration
+                - Server management
+                - Support and technical assistance
+
+          - title: "Baccalauréat Professionnel - Systèmes Numériques"
+            school:
+              name: "Lycée Charles Tellier"
+              url: "https://www.lyceetellier.fr/"
+            date: "09/2022 - 06/2023"
+            GPA: "Mention TRÈS BIEN"
+            content: |-
+              Option C: Réseaux informatiques et systèmes communicants
+              Condé-Sur-Noireau
+
+          - title: "Brevet des Collèges"
+            school:
+              name: "Collège D. Diderot"
+              url: "https://diderot-cherbourg-en-cotentin.college.ac-normandie.fr/"
+            date: "09/2019 - 07/2020"
+            GPA: "Mention BIEN"
+            content: |-
+              Tourlaville
+
+      projects:
+        items:
+          - title: "Mon installation Home Assistant"
+            content: "Projet personnel de domotique. Renouvellement de l'infrastructure domotique pour un contrôle total des appareils connectés. Intégration de multiples protocoles (Google Home, robot aspirateur, Freebox, serveur HomeLab, etc.). Mise en place d'automatisations avancées basées sur les horaires et conditions météorologiques."
+            image: /images/projects/02/homeassistant.png
+            featured:
+              name: Article
+              link: /blogs/home-assistant/
+            badges:
+              - "Home Assistant"
+              - "Domotique"
+              - "Automatisation"
+            links:
+              - icon: fab fa-wordpress
+                url: /blogs/home-assistant/
+
+          - title: "Raccordement réseau de bâtiments"
+            content: "Projet professionnel réalisé chez GE Vernova. Raccordement de deux bâtiments à l'infrastructure réseau principale pour l'installation de bornes WiFi. Passage de fibre, configuration de switches, brassage de prises RJ45, respect des normes T568A/B, génération de carte de signal (HeatMap) avec WifiMan pour optimiser la portée."
+            image: /images/projects/01/normes-T568.webp
+            featured:
+              name: Détails
+              link: https://antoinebecquet93.wordpress.com/2025/02/13/raccordement-reseau-de-batiments/
+            badges:
+              - "Réseau"
+              - "Infrastructure"
+              - "WiFi"
+              - "PoE"
+            links:
+              - icon: fab fa-wordpress
+                url: https://antoinebecquet93.wordpress.com/2025/02/13/raccordement-reseau-de-batiments/
+
+          - title: "Administration système et réseau"
+            content: "Expérience acquise lors de contrats en alternance et stages. Gestion d'Active Directory, administration de serveurs, configuration de postes de travail, support aux utilisateurs, maintenance préventive et corrective."
+            image: /images/placeholders/profile2.jpg
             badges:
               - "Active Directory"
               - "Windows Server"
               - "Linux"
               - "PowerShell"
-
-    achievements:
-        items:
-          - title: "BTS Services Informatiques aux Organisations"
-            content: Formation en alternance spécialisée en infrastructure réseau et support utilisateur.
-            image: /images/achievement.jpg
-
-          - title: "Alternance GE Vernova Offshore Wind"
-            content: "2 ans d'expérience en support utilisateurs et gestion d'infrastructure dans un environnement multinational."
-            image: /images/achievement.jpg
-
-          - title: "Certifications Réseau"
-            content: Connaissance approfondie des protocoles réseau, configuration de switchs et routeurs, gestion Active Directory.
-            image: /images/achievement.jpg
-
-          - title: "Passion pour la domotique"
-            content: Projet personnel sur Home Assistant - Automatisation et intégration de systèmes domotiques avancés.
-            url: "https://antoinebecquet93.wordpress.com/2024/11/22/mon-installation-home-assistant/"
-    contact:
-      enable: true
-      content: "Ma boîte de réception est toujours ouverte. Que vous ayez une question ou que vous souhaitiez simplement dire bonjour, je ferai de mon mieux pour vous répondre !"
-      btnName: "Écrivez-moi"
-      btnLink: mailto:antoinebecquet93@gmail.com
+      contact:
+        enable: true
+        content: "My inbox is always open! Whether you have a question or just want to say hello, I'll do my best to get back to you!"
+        btnName: "Contact me"
+        btnLink: mailto:antoinebecquet93@gmail.com
 
 outputs:
   home:
@@ -236,11 +387,16 @@ markup:
 
 Menus:
   main:
-    - identifier: gallery
-      name: Gallery
-      title: Gallery
-      url: /gallery
-      weight: 2
+  - identifier: blog
+    name: Blog
+    title: Articles de blog
+    url: /blogs/
+    weight: 1
+  - identifier: gallery
+    name: Gallery
+    title: Gallery
+    url: /gallery
+    weight: 2
     #Dropdown menu
     # - identifier: dropdown
     #   title: Example dropdown menu
@@ -328,7 +484,7 @@ params:
       disableExperience: false
       disableEducation: false
       disableProjects: false
-      disableAchievements: false
+      disableAchievements: true
       disableContact: false
 
   # Hero
@@ -377,7 +533,6 @@ params:
       je me déplace chez les clients pour assurer la maintenance de leur infrastructure informatique.
     skills:
       enable: true
-      title: "Technologies principales avec lesquelles j'ai travaillé :"
       items:
         - "Infrastructure réseau (Switches, Routeurs)"
         - "Configuration système"
@@ -493,33 +648,6 @@ params:
         GPA: "Mention BIEN"
         content: |-
           College général - Tourlaville
-
-  # Achievements
-  achievements:
-    enable: true
-    # title: "Custom Name"
-    items:
-      - title: "BTS Services Informatiques aux Organisations"
-        content: Formation en alternance spécialisée en infrastructure réseau et support utilisateur.
-        image: /images/placeholders/converter.jpg
-
-      - title: "Alternance GE Vernova Offshore Wind"
-        content: "2 ans d'expérience en support utilisateurs et gestion d'infrastructure Cloud multinational."
-        image: /images/logos/ge-vernova-logo.png
-
-      - title: "Alternance Mairie de Valognes"
-        content: "1ere année d'expérience en support utilisateurs et gestion d'infrastructure On Premise dans un environnement public."
-        image: /images/logos/mairie-valognes-logo.png
-
-      - title: "Certifications Réseau"
-        content: Connaissance approfondie des protocoles réseau, configuration de switchs et routeurs, gestion Active Directory.
-        image: /images/placeholders/achievement.jpg
-
-      - title: "Passion pour la domotique"
-        content: Projet personnel sur Home Assistant - Automatisation et intégration de systèmes domotiques avancés.
-        url: "https://antoinebecquet93.wordpress.com/2024/11/22/mon-installation-home-assistant/"
-        image: /images/projects/homeassistant.png
-
   # projects
   projects:
     enable: true
@@ -527,21 +655,18 @@ params:
     items:
       - title: "Mon installation Home Assistant"
         content: "Projet personnel de domotique. Renouvellement de l'infrastructure domotique pour un contrôle total des appareils connectés. Intégration de multiples protocoles (Google Home, robot aspirateur, Freebox, serveur HomeLab, etc.). Mise en place d'automatisations avancées basées sur les horaires et conditions météorologiques."
-        image: /images/projects/homeassistant.png
+        image: /images/projects/02/homeassistant.png
         featured:
           name: Article
-          link: https://antoinebecquet93.wordpress.com/2024/11/22/mon-installation-home-assistant/
+          link: /blogs/home-assistant/
         badges:
           - "Home Assistant"
           - "Domotique"
           - "Automatisation"
-        links:
-          - icon: fab fa-wordpress
-            url: https://antoinebecquet93.wordpress.com/2024/11/22/mon-installation-home-assistant/
 
       - title: "Raccordement réseau de bâtiments"
         content: "Projet professionnel réalisé chez GE Vernova. Raccordement de deux bâtiments à l'infrastructure réseau principale pour l'installation de bornes WiFi. Passage de fibre, configuration de switches, brassage de prises RJ45, respect des normes T568A/B, génération de carte de signal (HeatMap) avec WifiMan pour optimiser la portée."
-        image: /images/projects/GEVERNOVA_vue_aerienne.jpg
+        image: /images/projects/01/GEVERNOVA_vue_aerienne.jpg
         featured:
           name: Détails
           link: https://antoinebecquet93.wordpress.com/2025/02/13/raccordement-reseau-de-batiments/
@@ -550,10 +675,6 @@ params:
           - "Infrastructure"
           - "WiFi"
           - "PoE"
-        links:
-          - icon: fab fa-wordpress
-            url: https://antoinebecquet93.wordpress.com/2025/02/13/raccordement-reseau-de-batiments/
-
       - title: "Administration système et réseau"
         content: "Expérience acquise lors de contrats en alternance et stages. Gestion d'Active Directory, administration de serveurs, configuration de postes de travail, support aux utilisateurs, maintenance préventive et corrective."
         image: /images/placeholders/profile2.jpg
@@ -562,20 +683,16 @@ params:
           - "Windows Server"
           - "Linux"
           - "PowerShell"
-
-  #Contact
-  contact:
-    enable: true
-    # title: "Custom Name"
-    content: "Je suis toujours ouvert à la communication. Que vous ayez une question ou que vous souhaitiez simplement dire bonjour, n'hésitez pas à me contacter !"
-    btnName: "Ecrivez-moi"
-    btnLink: mailto:antoinebecquet93@gmail.com
-    # formspree:
-    #   enable: true # `contact.email` value will be ignored
-    #   formId: abcdefgh # Take it from your form's endpoint, like 'https://formspree.io/f/abcdefgh'
-    #   emailCaption: "Enter your email address"
-    #   messageCaption: "Enter your message here"
-    #   messageRows: 5
+      - title: "Retrofit Virtual Cockpit & MIB2 High (Audi A3 8V)"
+        content: "Intégration OEM d'un combiné numérique Virtual Cockpit et d'une unité MHI2 Harman sur Audi A3 8V. Cross-flash firmware Q2 vers A3, tirage de fibre optique MOST, recodage complet du bloc ABS sous VCDS et déport de la navigation Waze dans le combiné."
+        image: /images/projects/04/rendu_waze.jpg
+        featured:
+          name: Article
+          link: /blogs/retrofit-audi-a3-8v/
+        badges:
+          - "Automobile"
+          - "Audi"
+          - "Retrofit"
 
   footer:
     recentPosts:

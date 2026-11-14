@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Diagnostic on Antoine BECQUET | Portfolio</title>
+		<link>http://localhost:1313/tags/diagnostic/</link>
+		<description>Recent content in Diagnostic on Antoine BECQUET | Portfolio</description>
+		<generator>Hugo</generator>
+		<language>fr-fr</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 14 Nov 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/tags/diagnostic/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Retrofit OEM : Virtual Cockpit et MIB2 High sur Audi A3 8V</title>
+				<link>http://localhost:1313/gemini-code-1794668570590/</link>
+				<pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/gemini-code-1794668570590/</guid>
+				<description>&lt;h2 id=&#34;objectif-du-projet&#34;&gt;Objectif du projet&lt;/h2&gt;&#xA;&lt;p&gt;L&amp;rsquo;objectif de ce projet était de moderniser l&amp;rsquo;électronique embarquée de mon &lt;strong&gt;Audi A3 8V (2014)&lt;/strong&gt; initialement équipée d&amp;rsquo;un combiné analogique et d&amp;rsquo;un système multimédia d&amp;rsquo;entrée de gamme, en intégrant des équipements constructeur d&amp;rsquo;origine (OEM) issus de générations plus récentes :&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Un combiné d&amp;rsquo;instruments numérique &lt;strong&gt;Virtual Cockpit (FPK1)&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Une unité d&amp;rsquo;infodivertissement &lt;strong&gt;MIB2 High (MHI2 Harman)&lt;/strong&gt; avec navigation et gestion de la liaison optique.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;architecture-matérielle-et-bus-de-communication&#34;&gt;Architecture matérielle et bus de communication&lt;/h2&gt;&#xA;&lt;p&gt;Contrairement à un simple remplacement d&amp;rsquo;autoradio, ce retrofit implique une refonte de l&amp;rsquo;architecture de communication du véhicule :&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

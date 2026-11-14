@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Réseau on Antoine BECQUET | Portfolio</title>
+		<link>http://localhost:1313/en/tags/r%C3%A9seau/</link>
+		<description>Recent content in Réseau on Antoine BECQUET | Portfolio</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 13 Feb 2025 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/en/tags/r%C3%A9seau/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Raccordement réseau de bâtiments</title>
+				<link>http://localhost:1313/en/blogs/raccordement-reseau/</link>
+				<pubDate>Thu, 13 Feb 2025 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/blogs/raccordement-reseau/</guid>
+				<description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Pour ce premier projet réalisé chez GE Vernova, j&amp;rsquo;ai eu pour mission de raccorder deux bâtiments annexes au réseau de l&amp;rsquo;infrastructure principale, afin de pouvoir ensuite y déployer des équipements tels que des bornes Wi-Fi.&lt;/p&gt;&#xA;&lt;p&gt;Le matériel réseau de l&amp;rsquo;usine n&amp;rsquo;étant pas administré localement mais intégré à l&amp;rsquo;infrastructure mondiale de l&amp;rsquo;entreprise, les équipements sont supervisés par les équipes réseau globales qui en gèrent également les configurations et le déploiement.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Mon installation Home Assistant</title>
+				<link>http://localhost:1313/en/blogs/home-assistant/</link>
+				<pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/en/blogs/home-assistant/</guid>
+				<description>&lt;h2 id=&#34;préambule&#34;&gt;Préambule&lt;/h2&gt;&#xA;&lt;p&gt;J&amp;rsquo;ai récemment décidé de renouveler mon système domotique chez moi en voulant un contrôle absolu sur mes appareils. L&amp;rsquo;objectif est d&amp;rsquo;exploiter le plein potentiel de chacun et de faciliter l&amp;rsquo;interconnexion entre tous, car j&amp;rsquo;utilise de nombreux équipements basés sur différents protocoles qui ne communiquent pas nativement entre eux.&lt;/p&gt;&#xA;&lt;p&gt;Auparavant, j&amp;rsquo;utilisais uniquement l&amp;rsquo;écosystème Google Home avec un &lt;strong&gt;Google Nest Hub (2e gén.)&lt;/strong&gt;, permettant l&amp;rsquo;affichage d&amp;rsquo;informations ainsi que le contrôle des éclairages de différentes marques et du téléviseur sous Android TV.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

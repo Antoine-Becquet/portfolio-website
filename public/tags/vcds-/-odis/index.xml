@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>VCDS / ODIS on Antoine BECQUET | Portfolio</title>
+		<link>http://localhost:1313/tags/vcds-/-odis/</link>
+		<description>Recent content in VCDS / ODIS on Antoine BECQUET | Portfolio</description>
+		<generator>Hugo</generator>
+		<language>fr-fr</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 14 Nov 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/tags/vcds-/-odis/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Retrofit OEM : Virtual Cockpit et MIB2 High sur Audi A3 8V</title>
+				<link>http://localhost:1313/blogs/retrofit-audi-a3-8v/</link>
+				<pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/blogs/retrofit-audi-a3-8v/</guid>
+				<description>&lt;h2 id=&#34;objectif-du-projet&#34;&gt;Objectif du projet&lt;/h2&gt;&#xA;&lt;p&gt;L&amp;rsquo;objectif était de moderniser l&amp;rsquo;électronique embarquée de mon &lt;strong&gt;Audi A3 8V (2014)&lt;/strong&gt; — initialement dotée d&amp;rsquo;un combiné d&amp;rsquo;instruments analogique et d&amp;rsquo;un système multimédia d&amp;rsquo;entrée de gamme (MIB1 Standard) — en intégrant des équipements constructeur d&amp;rsquo;origine (OEM) de génération supérieure :&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Un combiné numérique &lt;strong&gt;Virtual Cockpit (FPK1)&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Une unité d&amp;rsquo;infodivertissement &lt;strong&gt;MIB2 High (MHI2 Harman)&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/projects/04/original.jpg&#34; alt=&#34;Configuration d’origine avant modification&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;préparation-matérielle-et-cross-flash-du-mib2&#34;&gt;Préparation matérielle et Cross-Flash du MIB2&lt;/h2&gt;&#xA;&lt;p&gt;Le passage sur une plateforme MIB2 High a nécessité le démontage de la planche de bord et de la boîte à gants pour adapter le faisceau Quadlock, raccorder les lignes de communication &lt;strong&gt;CAN&lt;/strong&gt; au Gateway et tirer la boucle en &lt;strong&gt;fibre optique (Bus MOST)&lt;/strong&gt; entre l&amp;rsquo;unité principale et le combiné.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Retrofit OEM : Virtual Cockpit et MIB2 High sur Audi A3 8V</title>
+				<link>http://localhost:1313/retrofit-audi-a3-8v/</link>
+				<pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/retrofit-audi-a3-8v/</guid>
+				<description>&lt;h2 id=&#34;objectif-du-projet&#34;&gt;Objectif du projet&lt;/h2&gt;&#xA;&lt;p&gt;L&amp;rsquo;objectif était de moderniser l&amp;rsquo;électronique embarquée de mon &lt;strong&gt;Audi A3 8V (2014)&lt;/strong&gt; — initialement dotée d&amp;rsquo;un combiné d&amp;rsquo;instruments analogique et d&amp;rsquo;un système multimédia d&amp;rsquo;entrée de gamme (MIB1 Standard) — en intégrant des équipements constructeur d&amp;rsquo;origine (OEM) de génération supérieure :&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Un combiné numérique &lt;strong&gt;Virtual Cockpit (FPK1)&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Une unité d&amp;rsquo;infodivertissement &lt;strong&gt;MIB2 High (MHI2 Harman)&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/projects/04/original.jpg&#34; alt=&#34;Configuration d’origine avant modification&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;préparation-matérielle-et-cross-flash-du-mib2&#34;&gt;Préparation matérielle et Cross-Flash du MIB2&lt;/h2&gt;&#xA;&lt;p&gt;Le passage sur une plateforme MIB2 High a nécessité le démontage de la planche de bord et de la boîte à gants pour adapter le faisceau Quadlock, raccorder les lignes de communication &lt;strong&gt;CAN&lt;/strong&gt; au Gateway et tirer la boucle en &lt;strong&gt;fibre optique (Bus MOST)&lt;/strong&gt; entre l&amp;rsquo;unité principale et le combiné.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
